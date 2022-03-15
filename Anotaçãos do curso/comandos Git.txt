@@ -1,0 +1,6 @@
+git staus= verifica o repositorio se tem alguma atulaização
+git add . (ou)-A= adiconar todas os arquivos ao git
+git commit -m "comentario"= faz o commit mais um comentario
+git push  origin main = envia o commit para o github
+git config --globla user.email "your email"= indentifica o email do repositor
+gir config --global user.name "your name"=identifica o nome do repositor 
